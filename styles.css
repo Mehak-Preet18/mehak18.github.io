@@ -1,0 +1,30 @@
+div.Education {
+    column-count: 3;
+    column-gap: 80px;
+
+}
+div.credentials{
+    column-count: 2;
+    column-gap: 60px;
+}
+
+div.Title {
+    background-color:gray;
+}
+p.name {
+    background-color:gray;
+    font-size: 30px;
+    text-decoration:underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 4px solid black;
+}
+div.photo{
+    text-align: center;
+    
+}
+body{
+    background-color: darkgray;
+    border: 4px solid black;
+
+}
